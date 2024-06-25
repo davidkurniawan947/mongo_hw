@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1b9"
+  },
+  "title": "Book Title 4",
+  "author": "Author 5",
+  "genre": "Dystopian",
+  "published_year": 1954,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1b8"
+      },
+      "borrowed_date": {
+        "$date": "2024-07-29T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1cd"
+  },
+  "title": "Book Title 14",
+  "author": "Author 5",
+  "genre": "Fantasy",
+  "published_year": 1964,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1cc"
+      },
+      "borrowed_date": {
+        "$date": "2024-01-12T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1e1"
+  },
+  "title": "Book Title 24",
+  "author": "Author 5",
+  "genre": "Fantasy",
+  "published_year": 1974,
+  "copies_available": 51,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1e0"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-29T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1f5"
+  },
+  "title": "Book Title 34",
+  "author": "Author 5",
+  "genre": "Science Fiction",
+  "published_year": 1984,
+  "copies_available": 41,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1f4"
+      },
+      "borrowed_date": {
+        "$date": "2024-07-21T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be209"
+  },
+  "title": "Book Title 44",
+  "author": "Author 5",
+  "genre": "Dystopian",
+  "published_year": 1994,
+  "copies_available": 31,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be208"
+      },
+      "borrowed_date": {
+        "$date": "2024-11-06T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be21d"
+  },
+  "title": "Book Title 54",
+  "author": "Author 5",
+  "genre": "Dystopian",
+  "published_year": 2004,
+  "copies_available": 81,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be21c"
+      },
+      "borrowed_date": {
+        "$date": "2024-05-13T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be231"
+  },
+  "title": "Book Title 64",
+  "author": "Author 5",
+  "genre": "Adventure",
+  "published_year": 2014,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be230"
+      },
+      "borrowed_date": {
+        "$date": "2024-08-24T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be245"
+  },
+  "title": "Book Title 74",
+  "author": "Author 5",
+  "genre": "Adventure",
+  "published_year": 1954,
+  "copies_available": 21,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be244"
+      },
+      "borrowed_date": {
+        "$date": "2024-09-09T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be259"
+  },
+  "title": "Book Title 84",
+  "author": "Author 5",
+  "genre": "Science Fiction",
+  "published_year": 1964,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be258"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-07T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be26d"
+  },
+  "title": "Book Title 94",
+  "author": "Author 5",
+  "genre": "Fantasy",
+  "published_year": 1974,
+  "copies_available": 81,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be26c"
+      },
+      "borrowed_date": {
+        "$date": "2024-02-07T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+}]

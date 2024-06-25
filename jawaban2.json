@@ -1,0 +1,1260 @@
+[{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1b1"
+  },
+  "title": "Book Title 0",
+  "author": "Author 1",
+  "genre": "Fiction",
+  "published_year": 1950,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1b0"
+      },
+      "borrowed_date": {
+        "$date": "2024-02-09T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1b3"
+  },
+  "title": "Book Title 1",
+  "author": "Author 2",
+  "genre": "Fiction",
+  "published_year": 1951,
+  "copies_available": 41,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1b2"
+      },
+      "borrowed_date": {
+        "$date": "2024-10-15T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1b5"
+  },
+  "title": "Book Title 2",
+  "author": "Author 3",
+  "genre": "Science Fiction",
+  "published_year": 1952,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1b4"
+      },
+      "borrowed_date": {
+        "$date": "2024-05-17T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1b7"
+  },
+  "title": "Book Title 3",
+  "author": "Author 4",
+  "genre": "Fantasy",
+  "published_year": 1953,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1b6"
+      },
+      "borrowed_date": {
+        "$date": "2024-04-20T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1b9"
+  },
+  "title": "Book Title 4",
+  "author": "Author 5",
+  "genre": "Dystopian",
+  "published_year": 1954,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1b8"
+      },
+      "borrowed_date": {
+        "$date": "2024-07-29T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1bb"
+  },
+  "title": "Book Title 5",
+  "author": "Author 6",
+  "genre": "Science Fiction",
+  "published_year": 1955,
+  "copies_available": 31,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1ba"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-05T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1bd"
+  },
+  "title": "Book Title 6",
+  "author": "Author 7",
+  "genre": "Fiction",
+  "published_year": 1956,
+  "copies_available": 41,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1bc"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-16T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1bf"
+  },
+  "title": "Book Title 7",
+  "author": "Author 8",
+  "genre": "Adventure",
+  "published_year": 1957,
+  "copies_available": 31,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1be"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-25T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1c1"
+  },
+  "title": "Book Title 8",
+  "author": "Author 9",
+  "genre": "Fiction",
+  "published_year": 1958,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1c0"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-26T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1c3"
+  },
+  "title": "Book Title 9",
+  "author": "Author 10",
+  "genre": "Fiction",
+  "published_year": 1959,
+  "copies_available": 41,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1c2"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-23T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1c5"
+  },
+  "title": "Book Title 10",
+  "author": "Author 1",
+  "genre": "Fiction",
+  "published_year": 1960,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1c4"
+      },
+      "borrowed_date": {
+        "$date": "2024-05-26T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1c7"
+  },
+  "title": "Book Title 11",
+  "author": "Author 2",
+  "genre": "Fantasy",
+  "published_year": 1961,
+  "copies_available": 21,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1c6"
+      },
+      "borrowed_date": {
+        "$date": "2024-06-29T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1c9"
+  },
+  "title": "Book Title 12",
+  "author": "Author 3",
+  "genre": "Adventure",
+  "published_year": 1962,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1c8"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-15T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1cb"
+  },
+  "title": "Book Title 13",
+  "author": "Author 4",
+  "genre": "Dystopian",
+  "published_year": 1963,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1ca"
+      },
+      "borrowed_date": {
+        "$date": "2024-11-19T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1cd"
+  },
+  "title": "Book Title 14",
+  "author": "Author 5",
+  "genre": "Fantasy",
+  "published_year": 1964,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1cc"
+      },
+      "borrowed_date": {
+        "$date": "2024-01-12T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1cf"
+  },
+  "title": "Book Title 15",
+  "author": "Author 6",
+  "genre": "Dystopian",
+  "published_year": 1965,
+  "copies_available": 21,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1ce"
+      },
+      "borrowed_date": {
+        "$date": "2024-02-05T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1d1"
+  },
+  "title": "Book Title 16",
+  "author": "Author 7",
+  "genre": "Dystopian",
+  "published_year": 1966,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1d0"
+      },
+      "borrowed_date": {
+        "$date": "2024-05-22T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1d3"
+  },
+  "title": "Book Title 17",
+  "author": "Author 8",
+  "genre": "Fiction",
+  "published_year": 1967,
+  "copies_available": 41,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1d2"
+      },
+      "borrowed_date": {
+        "$date": "2024-01-16T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1d5"
+  },
+  "title": "Book Title 18",
+  "author": "Author 9",
+  "genre": "Dystopian",
+  "published_year": 1968,
+  "copies_available": 31,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1d4"
+      },
+      "borrowed_date": {
+        "$date": "2024-04-07T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1d7"
+  },
+  "title": "Book Title 19",
+  "author": "Author 10",
+  "genre": "Adventure",
+  "published_year": 1969,
+  "copies_available": 11,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1d6"
+      },
+      "borrowed_date": {
+        "$date": "2024-02-13T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1d9"
+  },
+  "title": "Book Title 20",
+  "author": "Author 1",
+  "genre": "Science Fiction",
+  "published_year": 1970,
+  "copies_available": 21,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1d8"
+      },
+      "borrowed_date": {
+        "$date": "2024-10-01T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1db"
+  },
+  "title": "Book Title 21",
+  "author": "Author 2",
+  "genre": "Adventure",
+  "published_year": 1971,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1da"
+      },
+      "borrowed_date": {
+        "$date": "2024-04-17T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1dd"
+  },
+  "title": "Book Title 22",
+  "author": "Author 3",
+  "genre": "Adventure",
+  "published_year": 1972,
+  "copies_available": 31,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1dc"
+      },
+      "borrowed_date": {
+        "$date": "2024-01-04T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1df"
+  },
+  "title": "Book Title 23",
+  "author": "Author 4",
+  "genre": "Adventure",
+  "published_year": 1973,
+  "copies_available": 81,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1de"
+      },
+      "borrowed_date": {
+        "$date": "2024-05-13T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1e1"
+  },
+  "title": "Book Title 24",
+  "author": "Author 5",
+  "genre": "Fantasy",
+  "published_year": 1974,
+  "copies_available": 51,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1e0"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-29T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1e3"
+  },
+  "title": "Book Title 25",
+  "author": "Author 6",
+  "genre": "Dystopian",
+  "published_year": 1975,
+  "copies_available": 51,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1e2"
+      },
+      "borrowed_date": {
+        "$date": "2024-04-27T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1e5"
+  },
+  "title": "Book Title 26",
+  "author": "Author 7",
+  "genre": "Dystopian",
+  "published_year": 1976,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1e4"
+      },
+      "borrowed_date": {
+        "$date": "2024-04-07T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1e7"
+  },
+  "title": "Book Title 27",
+  "author": "Author 8",
+  "genre": "Dystopian",
+  "published_year": 1977,
+  "copies_available": 51,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1e6"
+      },
+      "borrowed_date": {
+        "$date": "2024-10-09T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1e9"
+  },
+  "title": "Book Title 28",
+  "author": "Author 9",
+  "genre": "Adventure",
+  "published_year": 1978,
+  "copies_available": 21,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1e8"
+      },
+      "borrowed_date": {
+        "$date": "2024-04-29T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be1eb"
+  },
+  "title": "Book Title 29",
+  "author": "Author 10",
+  "genre": "Dystopian",
+  "published_year": 1979,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be1ea"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-02T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be23d"
+  },
+  "title": "Book Title 70",
+  "author": "Author 1",
+  "genre": "Fiction",
+  "published_year": 1950,
+  "copies_available": 41,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be23c"
+      },
+      "borrowed_date": {
+        "$date": "2024-05-25T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be23f"
+  },
+  "title": "Book Title 71",
+  "author": "Author 2",
+  "genre": "Fiction",
+  "published_year": 1951,
+  "copies_available": 11,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be23e"
+      },
+      "borrowed_date": {
+        "$date": "2024-04-07T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be241"
+  },
+  "title": "Book Title 72",
+  "author": "Author 3",
+  "genre": "Dystopian",
+  "published_year": 1952,
+  "copies_available": 41,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be240"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-13T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be243"
+  },
+  "title": "Book Title 73",
+  "author": "Author 4",
+  "genre": "Fantasy",
+  "published_year": 1953,
+  "copies_available": 81,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be242"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-23T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be245"
+  },
+  "title": "Book Title 74",
+  "author": "Author 5",
+  "genre": "Adventure",
+  "published_year": 1954,
+  "copies_available": 21,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be244"
+      },
+      "borrowed_date": {
+        "$date": "2024-09-09T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be247"
+  },
+  "title": "Book Title 75",
+  "author": "Author 6",
+  "genre": "Dystopian",
+  "published_year": 1955,
+  "copies_available": 11,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be246"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-17T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be249"
+  },
+  "title": "Book Title 76",
+  "author": "Author 7",
+  "genre": "Science Fiction",
+  "published_year": 1956,
+  "copies_available": 81,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be248"
+      },
+      "borrowed_date": {
+        "$date": "2024-06-04T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be24b"
+  },
+  "title": "Book Title 77",
+  "author": "Author 8",
+  "genre": "Fantasy",
+  "published_year": 1957,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be24a"
+      },
+      "borrowed_date": {
+        "$date": "2024-10-24T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be24d"
+  },
+  "title": "Book Title 78",
+  "author": "Author 9",
+  "genre": "Science Fiction",
+  "published_year": 1958,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be24c"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-24T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be24f"
+  },
+  "title": "Book Title 79",
+  "author": "Author 10",
+  "genre": "Dystopian",
+  "published_year": 1959,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be24e"
+      },
+      "borrowed_date": {
+        "$date": "2024-11-19T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be251"
+  },
+  "title": "Book Title 80",
+  "author": "Author 1",
+  "genre": "Adventure",
+  "published_year": 1960,
+  "copies_available": 11,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be250"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-22T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be253"
+  },
+  "title": "Book Title 81",
+  "author": "Author 2",
+  "genre": "Adventure",
+  "published_year": 1961,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be252"
+      },
+      "borrowed_date": {
+        "$date": "2024-11-22T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be255"
+  },
+  "title": "Book Title 82",
+  "author": "Author 3",
+  "genre": "Fantasy",
+  "published_year": 1962,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be254"
+      },
+      "borrowed_date": {
+        "$date": "2024-01-30T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be257"
+  },
+  "title": "Book Title 83",
+  "author": "Author 4",
+  "genre": "Dystopian",
+  "published_year": 1963,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be256"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-15T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be259"
+  },
+  "title": "Book Title 84",
+  "author": "Author 5",
+  "genre": "Science Fiction",
+  "published_year": 1964,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be258"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-07T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be25b"
+  },
+  "title": "Book Title 85",
+  "author": "Author 6",
+  "genre": "Dystopian",
+  "published_year": 1965,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be25a"
+      },
+      "borrowed_date": {
+        "$date": "2024-04-29T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be25d"
+  },
+  "title": "Book Title 86",
+  "author": "Author 7",
+  "genre": "Fiction",
+  "published_year": 1966,
+  "copies_available": 21,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be25c"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-20T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be25f"
+  },
+  "title": "Book Title 87",
+  "author": "Author 8",
+  "genre": "Fiction",
+  "published_year": 1967,
+  "copies_available": 61,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be25e"
+      },
+      "borrowed_date": {
+        "$date": "2024-03-04T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be261"
+  },
+  "title": "Book Title 88",
+  "author": "Author 9",
+  "genre": "Science Fiction",
+  "published_year": 1968,
+  "copies_available": 11,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be260"
+      },
+      "borrowed_date": {
+        "$date": "2024-10-19T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be263"
+  },
+  "title": "Book Title 89",
+  "author": "Author 10",
+  "genre": "Science Fiction",
+  "published_year": 1969,
+  "copies_available": 31,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be262"
+      },
+      "borrowed_date": {
+        "$date": "2024-05-02T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be265"
+  },
+  "title": "Book Title 90",
+  "author": "Author 1",
+  "genre": "Fantasy",
+  "published_year": 1970,
+  "copies_available": 41,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be264"
+      },
+      "borrowed_date": {
+        "$date": "2024-07-12T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be267"
+  },
+  "title": "Book Title 91",
+  "author": "Author 2",
+  "genre": "Dystopian",
+  "published_year": 1971,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be266"
+      },
+      "borrowed_date": {
+        "$date": "2024-07-23T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be269"
+  },
+  "title": "Book Title 92",
+  "author": "Author 3",
+  "genre": "Adventure",
+  "published_year": 1972,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be268"
+      },
+      "borrowed_date": {
+        "$date": "2024-09-01T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be26b"
+  },
+  "title": "Book Title 93",
+  "author": "Author 4",
+  "genre": "Fantasy",
+  "published_year": 1973,
+  "copies_available": 81,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be26a"
+      },
+      "borrowed_date": {
+        "$date": "2024-08-17T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be26d"
+  },
+  "title": "Book Title 94",
+  "author": "Author 5",
+  "genre": "Fantasy",
+  "published_year": 1974,
+  "copies_available": 81,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be26c"
+      },
+      "borrowed_date": {
+        "$date": "2024-02-07T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be26f"
+  },
+  "title": "Book Title 95",
+  "author": "Author 6",
+  "genre": "Science Fiction",
+  "published_year": 1975,
+  "copies_available": 51,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be26e"
+      },
+      "borrowed_date": {
+        "$date": "2024-10-20T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be271"
+  },
+  "title": "Book Title 96",
+  "author": "Author 7",
+  "genre": "Science Fiction",
+  "published_year": 1976,
+  "copies_available": 51,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be270"
+      },
+      "borrowed_date": {
+        "$date": "2024-08-22T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be273"
+  },
+  "title": "Book Title 97",
+  "author": "Author 8",
+  "genre": "Science Fiction",
+  "published_year": 1977,
+  "copies_available": 91,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be272"
+      },
+      "borrowed_date": {
+        "$date": "2024-11-05T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be275"
+  },
+  "title": "Book Title 98",
+  "author": "Author 9",
+  "genre": "Dystopian",
+  "published_year": 1978,
+  "copies_available": 11,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be274"
+      },
+      "borrowed_date": {
+        "$date": "2024-05-16T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be277"
+  },
+  "title": "Book Title 99",
+  "author": "Author 10",
+  "genre": "Fiction",
+  "published_year": 1979,
+  "copies_available": 31,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be276"
+      },
+      "borrowed_date": {
+        "$date": "2024-07-30T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+}]

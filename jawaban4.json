@@ -1,0 +1,20 @@
+[{
+  "_id": "Fiction",
+  "count": 18
+},
+{
+  "_id": "Science Fiction",
+  "count": 21
+},
+{
+  "_id": "Fantasy",
+  "count": 19
+},
+{
+  "_id": "Dystopian",
+  "count": 24
+},
+{
+  "_id": "Adventure",
+  "count": 18
+}]

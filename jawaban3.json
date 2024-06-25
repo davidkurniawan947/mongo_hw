@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be237"
+  },
+  "title": "Book Title 67",
+  "author": "Author 8",
+  "genre": "Fantasy",
+  "published_year": 2017,
+  "copies_available": 71,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be236"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-19T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be215"
+  },
+  "title": "Book Title 50",
+  "author": "Author 1",
+  "genre": "Fantasy",
+  "published_year": 2000,
+  "copies_available": 11,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be214"
+      },
+      "borrowed_date": {
+        "$date": "2024-06-29T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be213"
+  },
+  "title": "Book Title 49",
+  "author": "Author 10",
+  "genre": "Fantasy",
+  "published_year": 1999,
+  "copies_available": 11,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be212"
+      },
+      "borrowed_date": {
+        "$date": "2024-06-09T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be20b"
+  },
+  "title": "Book Title 45",
+  "author": "Author 6",
+  "genre": "Fantasy",
+  "published_year": 1995,
+  "copies_available": 31,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be20a"
+      },
+      "borrowed_date": {
+        "$date": "2024-02-21T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ac717bc86895f5c6be203"
+  },
+  "title": "Book Title 41",
+  "author": "Author 2",
+  "genre": "Fantasy",
+  "published_year": 1991,
+  "copies_available": 81,
+  "borrowed_by": [
+    {
+      "user_id": {
+        "$oid": "667ac717bc86895f5c6be202"
+      },
+      "borrowed_date": {
+        "$date": "2024-12-24T00:00:00.000Z"
+      },
+      "return_date": null
+    }
+  ]
+}]
